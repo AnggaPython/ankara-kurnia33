@@ -48,7 +48,7 @@ const Main = () => {
                       <DiHtml5 className=" h-10 w-10 " />
                     </div>
                     <span className="marquee-tag ">
-                      HTML
+                      LEADERSHIP
                     </span>{" "}
                   </div>
                 </div>{" "}

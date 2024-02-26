@@ -68,7 +68,7 @@ const Main = () => {
                       <DiJavascript className="h-10 w-10 " />
                     </div>
                     <span className="marquee-tag">
-                      Javascript
+                      HR
                     </span>{" "}
                   </div>
                 </div>{" "}

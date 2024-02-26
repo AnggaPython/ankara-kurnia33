@@ -34,7 +34,7 @@ const Main = () => {
         <div className=" w-full overflow-hidden  content-center grid  ">
           <h2 className="title mb-8 m-auto text-3xl font-extrabold   md:text-5xl lg:text-6xl  text-gray-200  mt-10 ">
             {" "}
-            What I Know
+            About My Self
           </h2>
           <div className=" max-w-full  m-auto overflow-hidden  ">
             {/* marquee 👇 */}

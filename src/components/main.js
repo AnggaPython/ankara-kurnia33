@@ -112,7 +112,7 @@ const Main = () => {
                       <SiCanva className="h-10 w-10" />
                     </div>
                     <span className="marquee-tag">
-                      canva
+                      Sales & Marketing
                     </span>{" "}
                   </div>
                 </div>{" "}

@@ -90,7 +90,7 @@ const Main = () => {
                       <SiNextdotjs className="h-10 w-10" />
                     </div>
                     <span className="marquee-tag">
-                      Next.js
+                      Trainer
                     </span>{" "}
                   </div>
                 </div>{" "}

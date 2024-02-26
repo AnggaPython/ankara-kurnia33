@@ -101,7 +101,7 @@ const Main = () => {
                       <SiNodedotjs className="h-10 w-10" />
                     </div>
                     <span className="marquee-tag">
-                      Node.js
+                      Build Connection
                     </span>{" "}
                   </div>
                 </div>{" "}

@@ -68,7 +68,7 @@ const Main = () => {
                       <DiJavascript className="h-10 w-10 " />
                     </div>
                     <span className="marquee-tag">
-                      HR
+                      Human resource
                     </span>{" "}
                   </div>
                 </div>{" "}
@@ -79,7 +79,7 @@ const Main = () => {
                       <DiReact className="h-10 w-10" />
                     </div>
                     <span className="marquee-tag">
-                      React.js
+                      Manage Service
                     </span>{" "}
                   </div>
                 </div>{" "}
